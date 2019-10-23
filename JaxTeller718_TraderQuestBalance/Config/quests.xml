@@ -55,17 +55,4 @@
 	<set xpath="/quests/quest[@id='tier2_buried_supplies']/reward[@type='Item']/@value">500-750</set>
 
 	
-											
-	<append xpath="/quests/quest[starts-with(@id, 'tier3_')]">
-		<reward type="SkillPoints" ischosen="true" value="1" />
-	</append>
-	
-	<append xpath="/quests/quest[starts-with(@id, 'tier4_')]">
-		<reward type="SkillPoints" ischosen="true" value="2" />
-	</append>
-	
-	<append xpath="/quests/quest[starts-with(@id, 'tier5_')]">
-		<reward type="SkillPoints" ischosen="true" value="3" />
-	</append>
-	
 </JaxTeller718>
