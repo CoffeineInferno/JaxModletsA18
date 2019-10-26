@@ -24,6 +24,8 @@
 	<property name="OnlySimpleRotations" value="true"/>
 	<property name="IsTerrainDecoration" value="true"/>
 	<property name="ImposterDontBlock" value="true"/>
+	<property name="ParticleName" value="campfire"/>
+	<property name="ParticleOffset" value="0.5,0,0.5"/>
 	<property name="Stacknumber" value="1"/>
 	<property name="HeatMapStrength" value="3"/>
 	<property name="HeatMapTime" value="600"/>
