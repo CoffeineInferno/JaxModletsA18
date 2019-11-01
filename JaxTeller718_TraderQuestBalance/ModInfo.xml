@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
 	<ModInfo>
-		<Name value="JaxTeller718_ToolsWeaponsBreak" />
-		<Description value="Tools and Weapons now break when Degradation Runs Out." />
+		<Name value="JaxTeller718_TraderQuestBalance" />
+		<Description value="Rebalanced and Lowered dukes and XP that traders give for quests." />
 		<Author value="JaxTeller718" />
 		<Version value="18.0b155/18.1b4" />
 		<Website value="https://ravenhearst.enjin.com/" />

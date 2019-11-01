@@ -1,0 +1,15 @@
+<JaxTeller718>
+
+	<set xpath="/lootcontainers/lootgroup[@name='groupQuestMedical']/item[@name='medicalFirstAidBandage']/@count">5,7</set>
+	<set xpath="/lootcontainers/lootgroup[@name='groupQuestMedical']/item[@name='medicalFirstAidKit']/@count">5,7</set>
+	<set xpath="/lootcontainers/lootgroup[@name='groupQuestMedical']/item[@name='medicalPlasterCast']/@count">3,7</set>
+	<set xpath="/lootcontainers/lootgroup[@name='groupQuestMedical']/item[@name='drugAntibiotics']/@count">2,3</set>
+	<set xpath="/lootcontainers/lootgroup[@name='groupQuestMedical']/item[@name='drugHerbalAntibiotics']/@count">2,3</set>
+	<set xpath="/lootcontainers/lootgroup[@name='groupQuestMedical']/item[@name='drugSteroids']/@count">2,3</set>
+	<set xpath="/lootcontainers/lootgroup[@name='groupQuestMedical']/item[@name='drugRecog']/@count">2,3</set>
+	<set xpath="/lootcontainers/lootgroup[@name='groupQuestMedical']/item[@name='drugFortBites']/@count">2,3</set>
+	<set xpath="/lootcontainers/lootgroup[@name='groupQuestMedical']/item[@name='drugPainkillers']/@count">3,5</set>
+
+
+
+</JaxTeller718>
