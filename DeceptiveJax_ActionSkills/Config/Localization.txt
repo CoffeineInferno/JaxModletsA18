@@ -8,4 +8,3 @@ perkASPistolsDesc,progression,Perk,New,"+0.3% Damage\n+0.5% Accuracy, Reload Spe
 perkASShotgunsDesc,progression,Perk,New,"+0.3% Damage\n+0.5% Accuracy, Reload Speed, and Recoil Reduction\nper level",,,,,
 perkASRiflesDesc,progression,Perk,New,"+0.3% Damage\n+0.5% Accuracy, Reload Speed, and Recoil Reduction\nper level",,,,,
 perkASAutomaticsDesc,progression,Perk,New,"+0.3% Damage\n+0.5% Accuracy, Reload Speed, and Recoil Reduction\nper level",,,,,
-attActionSkills,progression,Attribute,New,Action Skills,,,,,
