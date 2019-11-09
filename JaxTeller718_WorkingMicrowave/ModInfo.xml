@@ -4,7 +4,7 @@
 		<Name value="aac JaxTeller718_WorkingMicrowave" />
 		<Description value="Adds a working microwave you can harvest from in game microwaves. Adds canned food recipes and empty bowls to loot." />
 		<Author value="JaxTeller718" />
-		<Version value="18.0b155/18.1b4" />
+		<Version value="1.0" compat="A18.0, A18.1Eb6" />
 		<Website value="https://ravenhearst.enjin.com/" />
 	</ModInfo>
 </xml>
