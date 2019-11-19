@@ -5,7 +5,9 @@
 				<passive_effect name="PerkLevel" operation="base_add" value="@AS_Blunt_Lvl" tags="perkASBlunt"/>
 				<passive_effect name="PerkLevel" operation="base_add" value="@AS_Bladed_Lvl" tags="perkASBladed"/>
 				<passive_effect name="PerkLevel" operation="base_add" value="@AS_Electric_Lvl" tags="perkASElectric"/>
+				<passive_effect name="PerkLevel" operation="base_add" value="@AS_Turret_Lvl" tags="perkASTurret"/>
 				<passive_effect name="PerkLevel" operation="base_add" value="@AS_Javelin_Lvl" tags="perkASJavelin"/>
+				<passive_effect name="PerkLevel" operation="base_add" value="@AS_Brawler_Lvl" tags="perkASBrawler"/>
 				<passive_effect name="PerkLevel" operation="base_add" value="@AS_Archery_Lvl" tags="perkASArchery"/>
 				<passive_effect name="PerkLevel" operation="base_add" value="@AS_Pistols_Lvl" tags="perkASPistols"/>
 				<passive_effect name="PerkLevel" operation="base_add" value="@AS_Shotguns_Lvl" tags="perkASShotguns"/>
