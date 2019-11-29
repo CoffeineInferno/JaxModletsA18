@@ -4,7 +4,7 @@
 		<Name value="JaxTeller718_ReducedSurfaceOres" />
 		<Description value="Reduces presence of surface ores" />
 		<Author value="JaxTeller718" />
-		<Version value="1.0" compat="A18.0, A18.1b7" />
+		<Version value="1.0" compat="A18.0, A18.2b2" />
 		<Website value="https://ravenhearst.enjin.com/" />
 	</ModInfo>
 </xml>
